@@ -1,3 +1,7 @@
+/*Echo Liu
+ * Project 6
+ * Oct.31st.2019
+ */
 #include "BinaryInsertionSort.h"
 using namespace std;
 
