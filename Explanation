@@ -1,0 +1,4 @@
+In this project, we use two different methods to sort vector and linked list.
+The execution time for Binary Insertion sort  will increase faster than  linked lists.
+However, it will be contrast when the input length is huge has more amount.
+
